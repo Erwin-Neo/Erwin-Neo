@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on back end and web system development
 - 🌱 I’m currently learning **System Design**, **Data Science**
 - 💬 Ask me about **Software Engineering** ....
-- 💬 My temporary blog site: [Bear on CSDN](https://blog.csdn.net/weixin_44012853?type=blog)
 ### Skills
 - Programming Languages
 
